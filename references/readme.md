@@ -7,3 +7,7 @@
 [MAKE presents: The Capacitor](https://www.youtube.com/watch?v=ZYH9dGl4gUE)
 
 [How To Hack An Audio Greeting Card](https://www.musicworks.ca/diy/how-hack-audio-greeting-card)
+
+[Discharging a Capacitor](http://www.dummies.com/how-to/content/electronics-projects-charging-and-discharging-a-ca.html)
+
+[More with Oscillators](http://hackaday.com/2015/02/04/logic-noise-sweet-sweet-oscillator-sounds/)
